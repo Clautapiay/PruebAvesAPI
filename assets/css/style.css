@@ -1,0 +1,30 @@
+.bg-total {
+    background-color: beige;
+}
+
+.text-center {
+    color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50px;
+    margin: 5px;
+}
+
+.container {
+    padding-left: 65px;
+}
+
+.row {
+    padding: 10px;
+}
+
+.card-title {
+    color: palevioletred;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    background-color: beige;
+    margin: 5px;
+    border-color: palevioletred;
+}
